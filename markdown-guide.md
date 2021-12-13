@@ -102,7 +102,10 @@ COLLAPSE TEXT
 ## Heading
 
 1. A numbered
-1. List
-_ With some
-_ Sub bullets
+2. List
+
+   - With some
+
+   - Sub bullets
+
 </details>
