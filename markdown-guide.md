@@ -97,11 +97,12 @@ TASK LIST
 COLLAPSE TEXT
 
 <details>
-<summary>Section Header</summary>
+    <summary>Click to expand!</summary>
 
-Section body text
+## Heading
 
-- Hello
-- Good
-
+1. A numbered
+1. List
+_ With some
+_ Sub bullets
 </details>
