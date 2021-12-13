@@ -63,6 +63,8 @@ UNORDERED LIST (use \* or -)
 - How are you
 - What is markdown
 
+* Hello
+
 LINK
 
 [Github](http://github.com)
@@ -83,3 +85,23 @@ TASK LIST
 - [x] Task 2
 - [ ] Task 3
 - [ ] Task 4
+
+---
+
+| Light Color | Current State | Next State |
+| :---------- | :-----------: | ---------: |
+| Green       |     Green     |     Yellow |
+| Yellow      |    Yellow     |        Red |
+| Red         |      Red      |      Green |
+
+COLLAPSE TEXT
+
+<details>
+<summary>Section Header</summary>
+
+Section body text
+
+- Hello
+- Good
+
+</details>
