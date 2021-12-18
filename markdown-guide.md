@@ -69,6 +69,8 @@ LINK
 
 [Github](http://github.com)
 
+[Github](http://github.com "Github Title")
+
 or
 
 [Header](#this-is-an-h3-tag)
